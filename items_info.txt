@@ -1,0 +1,16 @@
+apple,1,100,0,n
+banana,0.5,200,10,n
+chocolate,2,50,0,y
+desk,200,5,20,y
+electric kettle,150,10,0,y
+flower,3.5,200,0,y
+garlic,0.7,300,0,n
+hair dryer,80,2,30,y
+ice cream,4,387,0,y
+jacket,50,50,5,y
+kiwi,4.2,20,0,n
+lemon,0.7,100,0,n
+macaroon,3.2,20,10,y
+nail polish,7.5,10,0,y
+orange,1.5,150,15,n
+watermelon,7.8,50,0,n
